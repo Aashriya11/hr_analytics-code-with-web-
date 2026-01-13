@@ -3,4 +3,4 @@ This project focuses on analyzing Human Resources (HR) data to derive meaningful
 
 The project is built using Python and Jupyter Notebook, with an integrated web interface to make insights easily accessible for HR decision-making.
 
-Tech Stack: Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook, Web App Framework (Streamlit/Flask)
+Tech Stack: Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook
